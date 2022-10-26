@@ -1,0 +1,158 @@
+nav{
+  color: white;
+  height: 50px;
+  display: flex;
+  justify-content:space-around;
+
+}
+header{
+  background-color: #1f2937;
+
+}
+.h1{
+  font-size: 24px;
+  color: #f9faf8;
+}
+body{
+  margin: 0;
+}
+.main{
+  background-color: #1f2937;
+  height: 70vh;
+}
+h2{
+  font-size: 48px;
+  font-weight:bolder;
+  color: #f9faf8;
+  width: 70%;
+  font-style: sans serif;
+}
+
+ul{
+  display: flex;
+  gap: 20px;
+  align-items:center;
+  align-content: stretch;
+}
+ul,li,a{
+  text-decoration: none;
+  padding-top: 8px;
+  list-style: none;
+  color: #f9faf8;
+  font-size: 20px;
+}
+button{
+  background-color:#3882f6;
+  color: white;
+  margin-top: 10px;
+  padding: 20px 50px;
+  border-radius:8%;
+  font-size: 20px;
+}
+p{
+  width: 65%;
+  font-size: 18px;
+  color: #e5e7eb;
+
+}
+.content{
+  width: 40%;
+}
+.placeholder{
+  background-color:#e5e7eb;
+  width: 30%;
+}
+.placeholder-1{
+    margin: 150px 120px;
+    color: #1f2937;
+    
+}
+
+.container{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 100px;
+}
+.div-1{
+  border: 2px solid blue;
+  width: 12%;
+  height: 20vh;
+  border-radius: 10%;
+}
+.flexbox{
+  display: flex;
+  justify-content: space-evenly;
+  height: 40vh;
+  margin-top: 100px;
+}
+.part-2{
+  text-align: center;
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+  margin-top: 50px;
+}
+.p1{
+  margin-top: 180px;
+  width: 80%;
+  text-align: center;
+  margin-left: 20px;
+  color: #1f2937;
+
+}
+.paragraph{
+  height: 50vh;
+  background-color: #e5e7eb;
+  font-size: 36px;
+  color: #1f2937;
+
+}
+.quote{
+  margin: 0px auto;
+  padding-top: 130px;
+  color: #1f2937;
+  font-size: 36px;
+  font-style: italic;
+  width: 67%;
+  
+}
+h5{
+  margin-left: 900px;
+}
+.last{
+  padding: 50px 0;
+  display: flex;
+  justify-content: space-around;
+}
+.Sign-up{
+  width: 100%;
+  margin-top: -20px;
+}
+.btn{
+  color: white;
+  border-color:#f9faf8;
+}
+.btn:hover{
+  background-color:darkslateblue;
+}
+.strong{
+  font-size: 25px;
+}
+.c{
+  background-color:#3882f6;
+  height: 20vh;
+  width: 80%;
+  margin: 100px auto;
+}
+footer{
+  background-color: #1f2937;
+  height: 10vh;
+  color:#e5e7eb;
+  
+  
+}
+.ceo{
+  text-align: center;
+  margin:10px auto
+}
